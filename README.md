@@ -9,7 +9,7 @@ The portfolio site was created for a fiction writer.
 - Event countdown
 
 # Tech Stack
-HTML, CSS, JavaScript, MERN stack
+Figma, HTML, CSS, JavaScript, MERN stack
 
 ![Screenshot Capture - 2025-01-01 - 13-12-13](https://github.com/user-attachments/assets/eb21a481-2164-410d-866b-a5e65d5ee4d0)
 
