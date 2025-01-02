@@ -11,11 +11,6 @@ The portfolio site was created for a fiction writer.
 # Tech Stack
 Figma, HTML, CSS, JavaScript, MERN stack
 
-![Screenshot Capture - 2025-01-01 - 13-27-18](https://github.com/user-attachments/assets/6ebe5ace-4bae-4c75-ae3f-b8d613c1d831)
-
-![Screenshot Capture - 2025-01-01 - 13-12-13](https://github.com/user-attachments/assets/eb21a481-2164-410d-866b-a5e65d5ee4d0)
-
-
-
+![Screenshot Capture - 2025-01-01 - 23-36-38](https://github.com/user-attachments/assets/7dc6280a-3715-4b3c-a783-edf0cd9e7c39)
 
 
