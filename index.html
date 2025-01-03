@@ -1,32 +1,48 @@
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Gem Prince's Website</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <header>
-    <img src="assets/images/largeBanner.png">
-  </header>
-  <body>
-    <h1>Hello, world!</h1>
-    <div>
-      <div>
-      </div>
-      
-      <div>
-      </div>
-      
-      <div>
-      </div> 
+    <title>Shadowed Section</title>
+    <style>
+        /* Brown Background */
+        .background {
+            background-color: #5a3e2f; /* Brown color */
+            height: 100vh; /* Full screen height */
+            position: relative; /* To allow layering of the shadow section */
+        }
+
+        /* Lighter Content Section */
+        .content-section {
+            background-color: #f8f3e8; /* Light color */
+            width: 80%; /* Adjust width as needed */
+            margin: 0 auto; /* Center horizontally */
+            padding: 20px;
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Drop shadow */
+            position: absolute; /* Overlap brown background */
+            top: 50%; /* Adjust vertical position */
+            left: 50%; /* Center horizontally */
+            transform: translate(-50%, -50%); /* Center perfectly */
+        }
+
+        /* Optional: Content inside */
+        .content-section h2 {
+            text-align: center;
+            color: #333;
+        }
+        .content-section p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="background">
+        <!-- Lighter Content Section -->
+        <div class="content-section">
+            <h2>Fresh Releases</h2>
+            <p>Here is your lighter section with a drop shadow that overlaps the brown background!</p>
+        </div>
     </div>
-
-
-
-    
-    <script src="index.js"></script>
-  </body>
+</body>
 </html>
