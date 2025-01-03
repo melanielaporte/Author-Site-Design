@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f8f3e8;
+    background-color: red;
     color: #333;
 }
 
@@ -12,7 +12,6 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #fff;
-    padding: 10px 20px;
     border-bottom: 2px solid #ccc;
 }
 
@@ -54,9 +53,9 @@ body {
 }
 
 /* Footer */
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #333;
-    color: #fff;
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
 }
