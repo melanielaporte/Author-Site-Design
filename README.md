@@ -4,7 +4,7 @@ The portfolio site was created for a fiction writer.
 
 # Features
 - Hidden navigation menu
-- Hideen social menu
+- Hidden social menu
 - Community message board
 - Event countdown
 
