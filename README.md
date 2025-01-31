@@ -2,17 +2,16 @@
 
 The portfolio site was created for a fiction writer.  
 
-# Features
+## Features
 - Hidden navigation menu
 - Hidden social menu
 - Community message board
 - Event countdown
 
-# Tech Stack
+## Tech Stack
 - Figma
-- Coming soon: HTML, CSS, JavaScript, MERN stack
+- HTML, CSS, JavaScript, MERN stack _COMING SOON_
 
-# UI
-![Screenshot Capture - 2025-01-01 - 23-36-38](https://github.com/user-attachments/assets/7dc6280a-3715-4b3c-a783-edf0cd9e7c39)
-
+## UI
+![Screenshot Capture - 2025-01-30 - 23-09-23](https://github.com/user-attachments/assets/fc7beafd-eb72-4ad3-bbc0-181c4b100ceb)
 
