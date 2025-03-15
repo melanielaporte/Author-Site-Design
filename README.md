@@ -13,10 +13,10 @@ I **handled the full process—from UX/UI design in Figma to front-end coding**�
 
 ## Research & Design Process  
 Using **Figma**, I redesigned the site with:  
-📌 **A bold, immersive homepage** featuring a tagline and visual storytelling.  
-📌 **Minimalist, elegant typography** optimized for readability.  
-📌 **Clear content sections** for books, blog, and about the author.  
-📌 **Improved navigation** with an intuitive menu structure.  
+- **A bold, immersive homepage** featuring a tagline and visual storytelling.  
+- **Minimalist, elegant typography** optimized for readability.  
+  - **Clear content sections** for books, blog, and about the author.  
+- **Improved navigation** with an intuitive menu structure.  
 
 ## Usability Testing & Refinements  
 User testing highlighted key improvements:  
@@ -30,9 +30,9 @@ I built the final site using:
 - **CSS animations & transitions** to create an engaging experience.  
 
 ## Results & Impact  
-✅ Enhanced brand storytelling and author credibility.  
-✅ Seamless user experience across devices.  
-✅ Professional, clean aesthetic that aligns with industry standards.  
+- Enhanced brand storytelling and author credibility.
+- Seamless user experience across devices.
+- Professional, clean aesthetic that aligns with industry standards.  
 ![Screenshot Capture - 2025-01-30 - 23-09-23](https://github.com/user-attachments/assets/fc7beafd-eb72-4ad3-bbc0-181c4b100ceb)
 
 
