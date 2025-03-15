@@ -1,7 +1,7 @@
 <h1 align="center">Website Redesign UX Case Study: Author Portfolio</h1>
 
 ## ✍️ Overview  
-This project involved designing and coding an elegant, author-focused website. Inspired by Neil Gaiman’s portfolio (before his downfall), the site prioritizes **storytelling, branding, and usability** to create a digital home for a professional writer.  
+This project involved designing and coding an elegant, author-focused website. It prioritizes **storytelling, branding, and usability** to create a digital home for a professional writer.  
 
 I **handled the full process—from UX/UI design in Figma to front-end coding**—ensuring an aesthetically rich and fully responsive author site.
 
