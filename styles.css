@@ -5,5 +5,10 @@ body {
     background-color: #1D1310;
     color: white;
 }
+.header {
+    background-color: white;
+}
+.mainBox {
+    background-color: orangered;
 
-
+}
