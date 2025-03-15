@@ -1,15 +1,9 @@
-<h1 align="center">Website Redesign UX Case Study: Author Portfolio</h1>
+<h1 align="center">Website UX Case Study: Author Portfolio</h1>
 
 ## ✍️ Overview  
 This project involved designing and coding an elegant, author-focused website. It prioritizes **storytelling, branding, and usability** to create a digital home for a professional writer.  
 
 I **handled the full process—from UX/UI design in Figma to front-end coding**—ensuring an aesthetically rich and fully responsive author site.
-
-## 🚨 Problem Statement  
-- **Cluttered Layout:** The original structure made it hard to navigate.  
-- **Lack of Personal Branding:** The site didn't reflect the author's voice.  
-- **Poor Readability:** Font choices and spacing affected accessibility.  
-- **No Mobile Optimization:** It lacked a responsive design.  
 
 ## 🎯 Goals  
 - Establish a **strong, visually compelling** author brand.  
