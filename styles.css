@@ -5,10 +5,16 @@ body {
     background-color: #1D1310;
     color: white;
 }
-.header {
+header {
     background-color: white;
 }
-.mainBox {
-    background-color: orangered;
-
+#hero {
+    background-color: orange;
+    height: 200px; /* Example height */
+    width: 100%; /* Optional */
+}
+#mainBox {
+    background-color: orange;
+    height: 200px; /* Example height */
+    width: 100%; /* Optional */
 }
