@@ -8,13 +8,18 @@ body {
 header {
     background-color: white;
 }
-#hero {
-    background-color: orange;
-    height: 200px; /* Example height */
-    width: 100%; /* Optional */
-}
 #mainBox {
-    background-color: orange;
+    background-color: #1D1310;
+    height: 800px; /* Example height */
+    width: 80%; /* Optional */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5); /* Adjust values as needed */
+}
+#hero {
     height: 200px; /* Example height */
-    width: 100%; /* Optional */
+    width: 80%; /* Optional */
+}
+#content {
+    background-color: #dfd1b1;
+    height: 800px; /* Example height */
+    width: 80%; /* Optional */
 }
